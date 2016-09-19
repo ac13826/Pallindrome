@@ -1,4 +1,4 @@
-#include <iostream>
+#OAinclude <iostream>
 #include <string.h> // string comparing
 
 using namespace std;
@@ -11,7 +11,7 @@ int main(){
   cin.get();
   char str2[81];
   char str[81];
-  char yesno;
+  
   int count = 0;
   int together = 0;
  
