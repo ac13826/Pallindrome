@@ -1,4 +1,4 @@
-#OAinclude <iostream>
+#include <iostream>
 #include <string.h> // string comparing
 
 using namespace std;
